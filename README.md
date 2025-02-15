@@ -23,7 +23,7 @@ To run this project, you need Python 3.x installed. No additional dependencies a
 
    ```bash
    git clone https://github.com/MainlyRogue/Port-Scanner.git
-   cd PortScanner
+   cd Port-Scanner
    ```
 
 2. Run the script :
